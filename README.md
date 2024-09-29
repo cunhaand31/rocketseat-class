@@ -1,0 +1,1 @@
+# Informacoes essenciais da aplicação
